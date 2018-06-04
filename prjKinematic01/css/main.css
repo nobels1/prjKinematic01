@@ -1,0 +1,29 @@
+.site-header{
+
+    background: blue;
+}
+
+#kEQs{
+    position: relative;
+}
+
+#kEQs li {
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 0;
+}
+
+#kEQs li, #kEQs a {
+    width: 500;
+    display: block;
+}
+
+#xPOS {
+    left: 0;
+    height: 125;
+    background-image: url('img/eq500x500.png')
+
+}
